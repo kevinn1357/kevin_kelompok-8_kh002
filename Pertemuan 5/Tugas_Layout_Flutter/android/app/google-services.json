@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "362823177210",
+    "project_id": "pemrogmobile-a10bc",
+    "storage_bucket": "pemrogmobile-a10bc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362823177210:android:31cbad56f92f3428524a43",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHOqOyZgcIvebuio4jAy0gHSk0h9shpzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
